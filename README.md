@@ -1,7 +1,5 @@
-# Global-Freelance-Workforce-Analytics-Report-Excel-
-Interactive Excel dashboard  &amp; Report for analyzing global freelance workforce data to uncover insights on skills, experience, ratings, and hourly rate trends.
-
 # Global Freelance Workforce Analytics Report (Excel)
+Interactive Excel dashboard  &amp; Report for analyzing global freelance workforce data to uncover insights on skills, experience, ratings, and hourly rate trends.
 
 ## Project Overview
 The **Global Freelance Workforce Analytics Dashboard** is an interactive data analysis project built using **Microsoft Excel** to analyze freelancer demographics, skills distribution, experience levels, and earning patterns across different countries.
@@ -149,7 +147,7 @@ This visualization highlights the **global spread of freelance professionals**.
 ---
 
 ## Dashboard Image
-![Dashboard Preview](Images/dashboard(Excel).png)
+![Dashboard Preview](Images/dashboard.png)
 
 ---
 
