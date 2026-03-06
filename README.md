@@ -148,6 +148,11 @@ This visualization highlights the **global spread of freelance professionals**.
 
 ---
 
+## Dashboard Image
+![Dashboard Preview](Images/dashboard(Excel).png)
+
+---
+
 ## Interactive Dashboard Controls
 
 The dashboard includes **Slicers** to enable dynamic filtering.
